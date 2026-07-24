@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="healthpartner.jpg" width="100%">
+  <img src="healthpartner.jpg" width="80%">
 </p>
 
 # ❤️ HealthPartner
